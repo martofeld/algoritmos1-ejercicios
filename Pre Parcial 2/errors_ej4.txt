@@ -1,0 +1,8 @@
+Invalid line 1234,1,a,c2,20
+Invalid line 4532,5,b,c1,53
+Invalid line 1245,4,c,c1,64
+Invalid line 1234,6,b,c5,12
+Invalid line 1234,1,a,c2,20
+Invalid line 4532,5,b,c1,53
+Invalid line 1245,4,c,c1,64
+Invalid line 1234,6,b,c5,12
